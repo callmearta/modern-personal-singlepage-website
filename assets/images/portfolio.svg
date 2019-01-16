@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="678px" height="591px" viewBox="0 0 678 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2C7BFF" offset="0%"></stop>
+            <stop stop-color="#D02A68" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -4317.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M0,4317.32564 C98.921875,4448.95585 230.114583,4524.00533 393.578125,4542.47408 C638.773438,4570.1772 677.75,4690.45064 677.75,4752.15377 C677.75,4813.85689 637.875,4977.31783 393.578125,4874.45064 C230.713542,4805.87252 99.5208333,4796.59387 0,4846.6147 L0,4317.32564 Z" id="Path-5"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="404px" viewBox="0 0 1440 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.9339776%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.452218192">
+        <g id="Desktop-HD" transform="translate(0.000000, -46.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-2">
+                <g id="Combined-Shape">
+                    <g id="Group-13" transform="translate(-155.000000, 45.000000)">
+                        <path d="M873.024586,317.611614 L755.201846,326.052125 L338.861861,79.0597469 L874.781296,79.0597469 L1407.18731,79.0597469 L990.847327,326.052125 L873.024586,317.611614 Z" id="Combined-Shape"></path>
+                        <path d="M873.024586,355.502157 L716.400043,366.722328 L162.949498,38.389544 L875.359822,38.389544 L1583.09967,38.389544 L1029.64913,366.722328 L873.024586,355.502157 Z" id="Combined-Shape-Copy"></path>
+                        <path d="M873.024586,390.494436 L680.566207,404.281649 L0.492750708,0.830222953 L875.894097,0.830222953 L1745.55642,0.830222953 L1065.48296,404.281649 L873.024586,390.494436 Z" id="Combined-Shape-Copy-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
